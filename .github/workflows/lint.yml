@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - release-v*
+      - feature/mtls_support2
   pull_request:
   merge_group:
 
